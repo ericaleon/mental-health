@@ -37,3 +37,4 @@ We will be analyzing the occurrence of mental illness across the world, and how 
 * A ton of variables!! https://www.cdc.gov/nchs/nhis/shs/tables.htm
 * Disease burden and mortality estimates by global regions: https://www.who.int/healthinfo/global_burden_disease/estimates/en/index1.html
 * American Psychological Association data sets: https://www.apa.org/research/responsible/data-links
+* US Census Regions: https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
