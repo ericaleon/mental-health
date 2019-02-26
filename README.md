@@ -31,3 +31,4 @@ We will be analyzing the occurrence of mental illness across the world, and how 
 * Mental Health Data from WHO: http://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en
 * US Healthcare Data: https://www.kaggle.com/maheshdadhich/us-healthcare-data
 * Health Searches 2005 - 2017: https://www.kaggle.com/GoogleNewsLab/health-searches-us-county
+* Mortality Data: https://www.cdc.gov/nchs/nvss/mortality_methods.htm
