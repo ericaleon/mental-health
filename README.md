@@ -36,3 +36,4 @@ We will be analyzing the occurrence of mental illness across the world, and how 
 * This report explores mortality vs. mental illness, and could be a good starting point for ideas and inspiration: https://www.nasmhpd.org/sites/default/files/Mortality%20and%20Morbidity%20Final%20Report%208.18.08.pdf
 * A ton of variables!! https://www.cdc.gov/nchs/nhis/shs/tables.htm
 * Disease burden and mortality estimates by global regions: https://www.who.int/healthinfo/global_burden_disease/estimates/en/index1.html
+* American Psychological Association data sets: https://www.apa.org/research/responsible/data-links
