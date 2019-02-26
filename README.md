@@ -32,3 +32,5 @@ We will be analyzing the occurrence of mental illness across the world, and how 
 * US Healthcare Data: https://www.kaggle.com/maheshdadhich/us-healthcare-data
 * Health Searches 2005 - 2017: https://www.kaggle.com/GoogleNewsLab/health-searches-us-county
 * CDC Mental Health Data: https://www.cdc.gov/mentalhealth/data_publications/index.htm
+* Mortality Data: https://www.cdc.gov/nchs/nvss/mortality_methods.htm
+* This report explores mortality vs. mental illness, and could be a good starting point for ideas and inspiration: https://www.nasmhpd.org/sites/default/files/Mortality%20and%20Morbidity%20Final%20Report%208.18.08.pdf
