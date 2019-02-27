@@ -4,15 +4,14 @@
 Dylan Bruce, Emily Tavik, Erica Leon, and Mirella Mardakis
 
 ## Description: 
-We will be analyzing the occurrence of mental illness across the world, and how that occurrence varies by gender and socioeconomic status. Using that data, we will incorporate how ease of access to healthcare and the amount of government expenditure on mental health programs and resources affects suicide and crime rates in relation to mental illness incidence. 
+We will be analyzing the occurrence of mental illness across the United States, and how that occurrence varies by gender and socioeconomic status. Using that data, we will incorporate how ease of access to healthcare and the amount of government expenditure on mental health programs and resources affects suicide and crime rates in relation to mental illness incidence. 
 
 ## Questions:
-* What is the occurrence of mental illness across the world?
-    * Make note of how data is reported (self-identification, medical records, etc), and use that to predict how much is undiagnosed
+* What are the top diagnoses of mental illness across U.S. regions (breakdown by demographics such as age, gender, race & ethnicity, household income)?
 
-* How is mental illness broken down by gender and socioeconomic status?
+* How accessible is treatment/counseling in these areas (i.e., licensed mental health providers, mental health facilities)?
 
-* How do access to healthcare and government expenditure on mental illness affect suicide and crime rates?
+* What is the relationship between these top mental illnesses, mental healthcare access, and suicide rates & suicide attempt rates?
 
 ## Breakdown of Tasks:
 * Define mental health/illness
