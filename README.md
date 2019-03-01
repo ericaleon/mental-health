@@ -1,7 +1,7 @@
 # We're All Mad Here
 
 ## Members:
-Dylan Bruce, Emily Tavik, Erica Leon, and Mirella Mardakis
+Dylan Bruce, Emily Tavik, Erica Leon, Mirella Mardakis, and Margaret Sippio
 
 ## Description: 
 We will be analyzing the occurrence of mental illness across the United States, and how that occurrence varies by gender and socioeconomic status. Using that data, we will incorporate how ease of access to healthcare and the amount of government expenditure on mental health programs and resources affects suicide and crime rates in relation to mental illness incidence. 
