@@ -1,0 +1,17 @@
+Sex,Region,Year,Deaths,Population,Crude Rate
+Males,Northeast,2013,4479,27281321,16.42
+Females,Northeast,2013,1329,28766411,4.62
+,Northeast,2013,5808,56047732,10.36
+Males,Northeast,2014,4589,27366542,16.77
+Females,Northeast,2014,1393,28836536,4.83
+,Northeast,2014,5982,56203078,10.64
+Males,Northeast,2015,4568,27422219,16.66
+Females,Northeast,2015,1486,28874409,5.15
+,Northeast,2015,6054,56296628,10.75
+Males,Northeast,2016,4640,27466268,16.89
+Females,Northeast,2016,1438,28893092,4.98
+,Northeast,2016,6078,56359360,10.78
+Males,Northeast,2017,4882,27530306,17.73
+Females,Northeast,2017,1506,28940275,5.2
+,Northeast,2017,6388,56470581,11.31
+,Northeast,,30310,281377379,10.77
