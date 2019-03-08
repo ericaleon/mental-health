@@ -1,4 +1,4 @@
-# We're All Mad Here
+# An Exploration of Mental Illness and Suicide Prevalence in the United States
 
 ## Members:
 Dylan Bruce, Emily Tavik, Erica Leon, Mirella Mardakis, and Margaret Sippio
